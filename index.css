@@ -1,3 +1,21 @@
 p {
+
   font-size: large;
+}
+body{
+  background-color: lightgreen
+}
+p{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: lightgrey;
+  border: solid black;
+}
+h1{
+  text-align: center;
+}
+
+img{
+  height: 401px;
+  width: 401px;
 }
